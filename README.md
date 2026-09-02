@@ -20,10 +20,10 @@ End-to-end NLP sentiment analysis pipeline built from scratch in Python — cust
 ## 📖 About
 
 <p>
-This is a university semester project (University of Bisha, 2026 – 1447H) that builds a complete
-<b>sentiment analysis pipeline</b> from scratch — without relying on external NLP libraries for the core logic.
-Both the text preprocessing steps (inspired by NLTK) and the <b>VADER</b> sentiment scoring engine are
-implemented manually in pure Python, using a custom dataset of 120 text samples (reviews, tweets, and comments).
+This project implements a complete <b>sentiment analysis pipeline</b> from scratch — without relying on
+external NLP libraries for the core logic. Both the text preprocessing steps (inspired by NLTK) and the
+<b>VADER</b> sentiment scoring engine are implemented manually in pure Python, using a custom dataset of
+120 text samples (reviews, tweets, and comments).
 </p>
 
 <table>
@@ -137,10 +137,4 @@ across the full dataset and by source (review / tweet / comment).
 
 ## 👤 Author
 
-<p>Rudyna Al-Qarni — University of Bisha</p>
-
----
-
-<div align="center">
-Made with 💬 and Python
-</div>
+<p>Rudyna Al-Qarni</p>
